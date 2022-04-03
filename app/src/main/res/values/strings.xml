@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">andersentask2p1</string>
+    <string name="happy_birthday_to_vitya">Happy Birthday to Vitya</string>
+    <string name="btn_1">Btn 1</string>
+    <string name="btn_2">Btn 2</string>
+    <string name="counter">Counter</string>
+    <string name="give_me_toast">GIVE ME TOAST</string>
+    <string name="toast">Toast</string>
+    <string name="zero">Zero</string>
+</resources>
