@@ -1,6 +1,7 @@
 <h1>Andersen task 2</h1>
 <h3>Themes: Android Studio, Project setup, 
 Activity, Screen rotation, resources</h3>
+____________________________
 
 <h4>commit name - "Commit for 1.1 1.2 tasks"</h4>
 
@@ -11,6 +12,8 @@ Activity, Screen rotation, resources</h3>
 <h4>commit name - "Commit for 1.3 1.4 tasks"</h4>
 <p>1.3: Text and scrolling views</p>
 <p>1.4: Learn to help yourself</p>
+
+____________________________
 
 <p>Screenshots first part(1.1, 1.2)</p>
 For the settings changes i use MVVM

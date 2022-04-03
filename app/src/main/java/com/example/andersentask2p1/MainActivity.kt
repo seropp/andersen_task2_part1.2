@@ -18,21 +18,18 @@ class MainActivity : AppCompatActivity(){
         setContentView(binding.root)
 
         vm = ViewModelProvider(this)[MainViewModel::class.java]
-
         vm.getLiveData().observe(this, Observer {
             binding.textView.text = it.toString()
         })
-
+    
         binding.btn1.setOnClickListener {
             Toast.makeText(this,"First bnt", Toast.LENGTH_SHORT).show()
         }
-
         binding.btn2.setOnClickListener {
             vm.setData()
         }
         binding.btn3.setOnClickListener {
             vm.zeroLiveData()
         }
-
     }
 }
