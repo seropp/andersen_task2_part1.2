@@ -9,8 +9,10 @@ Activity, Screen rotation, resources</h3>
 
 
 <h2>Screenshots</h2>
-<p>1.</p>
+
 <h5>To save data on ConfigurationChange I used mvvm</h5>
+
 ![photo_2022-04-03_19-36-30](https://user-images.githubusercontent.com/85056996/161438316-15719a47-e353-4cff-84fb-6354c2728ce4.jpg)
-<p>2.</p>
+
+
 ![asdasdw](https://user-images.githubusercontent.com/85056996/161438422-8f52b01a-18a5-466c-873e-ccb6b7e3e70b.jpg)
