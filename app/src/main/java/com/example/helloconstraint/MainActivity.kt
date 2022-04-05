@@ -1,11 +1,11 @@
-package com.example.andersentask2p1
+package com.example.helloconstraint
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import com.example.andersentask2p1.databinding.ActivityMainBinding
+import com.example.helloconstraint.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity(){
 

@@ -1,4 +1,4 @@
-package com.example.andersentask2p1
+package com.example.helloconstraint
 
 import org.junit.Test
 

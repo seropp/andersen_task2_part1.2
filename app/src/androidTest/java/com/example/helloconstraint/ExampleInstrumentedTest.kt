@@ -1,4 +1,4 @@
-package com.example.andersentask2p1
+package com.example.helloconstraint
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
