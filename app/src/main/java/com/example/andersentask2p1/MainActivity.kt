@@ -20,6 +20,8 @@ class MainActivity : AppCompatActivity(){
         vm = ViewModelProvider(this)[MainViewModel::class.java]
         vm.getLiveData().observe(this, Observer {
             binding.textView.text = it.toString()
+            if (it%2 != 0)binding.textView.setBackgroundResource(R.color.purple_500)
+            else binding.textView.setBackgroundResource(R.color.teal_700)
         })
     
         binding.btn1.setOnClickListener {
